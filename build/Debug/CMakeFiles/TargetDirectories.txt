@@ -1,0 +1,6 @@
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/CMakeFiles/gokceblink3.dir
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/CMakeFiles/edit_cache.dir
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/CMakeFiles/rebuild_cache.dir
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/gokceakar/Desktop/gokceblink3/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
